@@ -1,0 +1,10 @@
+var intro = alert("Xush kelibsiz");
+console.log("F.I.SH: " + prompt("F.I.SH"));
+console.log("Yoshi: " + prompt("Yoshingiz nechida"));
+console.log("Tug'ilgan joyingiz: " + prompt("Tug'ilgan joyingiz"));
+console.log("Qayerda ta'lim olish " + prompt("Qayerda ta'lim olasiz,yoki ishlaysiz"));
+console.log("Oilaviy muhiti: " + prompt("Oilaviy muhit"));
+console.log("Telefon raqami: " + prompt("Telefon raqamingiz"));
+console.log("Email: " + prompt("Elektron pochtangiz(email,gmail,mail,yandex)"));
+console.log("Yashash manzili: " + prompt("Yashash manzilingiz"));
+console.log("Poshta indexsi: " + prompt("Pochta indeksi"));
